@@ -8,7 +8,7 @@
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280">
 
 <h3>🚀 About Me</h3> 
-<h4> I am an ambitious student at the Faculty of Computers & AI, currently pursuing my passion for data science. My goal is to become a qualified data analyst, continuously expanding my knowledge in the field and exploring the realms of Machine Learning and AI. I am dedicated to acquiring the necessary expertise and leveraging my enthusiasm to contribute meaningfully to the exciting world of data analytics. </h4>
+<h4> I am an ambitious fresh Graduate from the Faculty of Computers & AI, currently pursuing my passion for data science. My goal is to become a qualified data Scientist, continuously expanding my knowledge in the field and exploring the realms of Machine Learning and AI. I am dedicated to acquiring the necessary expertise and leveraging my enthusiasm to contribute meaningfully to the exciting world of Data science. </h4>
 
 
 	
